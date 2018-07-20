@@ -1,5 +1,5 @@
 # hello-world-java
-Sample repo with a basic Mulesoft app for testing.
+Repo with a basic sample Mulesoft app for testing.
 
 Java API – PUT
 
