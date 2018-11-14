@@ -1,7 +1,7 @@
 # hello-world-java
 Repo with a basic sample Mulesoft app for testing.
 
-Console deployed to `https://<app-url>/console/java/``
+Console deployed to `https://<app-url>/console/java/`
 
 Java API – PUT
 
