@@ -5,9 +5,6 @@ applications:
   instances: 1
   path: target/hello-world-java-1.0.0-SNAPSHOT.zip
   buildpack: mule_buildpack
-  services:
-    - muleobjstore
-    - helloworld-java-metering
   env:
+    mcm_anypoint_metering_plan_unlimited: true
     APP_PORT: 8080
-    
